@@ -1,8 +1,14 @@
-body{
-   font-style: italic;
-   font-variant: small-caps;
-   font-weight: 700;
-   font-size: 3rem;
-   line-height: 300px;
-   font-family: 'Arial', sans-serif;
+p:nth-child(1){
+   margin-left: 500px;
+   margin-top: 500px;
+   color:blue;
+   opacity: 1;
+}
+
+p:nth-child(1):hover {
+   color:red;
+   font-size: 4rem;
+
+   opacity: 0.3;
+   transition-duration: 2s;
 }
