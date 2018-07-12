@@ -1,22 +1,13 @@
+body{
+   font-style: italic;
+   font-variant: small-caps;
+   font-weight: 700;
+   font-size: 3rem;
+   line-height: 300px;
+   font-family: 'Arial', sans-serif;
+}
+
+
 body {
-   font-family: 'Roboto', sans-serif;
-}
-
-div {
-   font-size: 2em;
-}
-
-div{
-   border:1px solid red;
-   width:80%;
-   border-radius: 100px;
-   border-right-color: blue;
-   margin: auto;
-   text-align:center;
-}
-
-p{
-   border-color:green;
-   width:30%;
-   border: 60px;
+   font: status bar;
 }
