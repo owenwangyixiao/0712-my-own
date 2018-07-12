@@ -1,0 +1,22 @@
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+div {
+   font-size: 2em;
+}
+
+div{
+   border:1px solid red;
+   width:80%;
+   border-radius: 100px;
+   border-right-color: blue;
+   margin: auto;
+   text-align:center;
+}
+
+p{
+   border-color:green;
+   width:30%;
+   border: 60px;
+}
